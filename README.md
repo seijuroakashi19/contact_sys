@@ -1,2 +1,5 @@
 # contact_sys
-Not yet done
+Barely done, run out of time.
+
+Link : http://localhost/contact/
+DB   : contact_sys.sql
